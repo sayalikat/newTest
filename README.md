@@ -6,7 +6,7 @@
 
 ## Try it live
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sayalikat/newTest/master?urlpath=C%3A%2FUsers%2FKatnesS%2Fgithub_testing%2FnewTest%2Ftrial.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sayalikat/newTest/master?urlpath=%3Furlpath%3Dapps%252Ftrial.ipynb)
 
 Click the binder badge to try it live without installing anything. This will take you directly to the "app" version of the notebook.
 
